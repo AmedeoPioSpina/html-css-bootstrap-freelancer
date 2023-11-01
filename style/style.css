@@ -1,0 +1,55 @@
+.container-fluid {
+    background-color: red;
+}
+
+.h-75-custom {
+    height: 75px;
+}
+
+.h-175 {
+    height: 175px;
+}
+
+.h-500 {
+    height: 500px;
+}
+
+.h-575 {
+    height: 575px;
+}
+
+.h-675 {
+    height: 675px;
+}
+
+.h-765 {
+    height: 765px;
+}
+
+.bg-blueviolet {
+    background-color: blueviolet;
+}
+
+.bg-green {
+    background-color: green;
+}
+
+.bg-orange {
+    background-color: orange;
+}
+
+.bg-pink {
+    background-color: pink;
+}   
+
+.bg-gray {
+    background-color: gray;
+}
+
+.bg-lightblue {
+    background-color: lightblue;
+}
+
+.bg-magenta {
+    background-color: magenta;
+}
