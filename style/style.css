@@ -53,3 +53,11 @@
 .bg-magenta {
     background-color: magenta;
 }
+
+.bg-custom-1 {
+    background-color: #2C3E50;
+}
+
+.avatar-img {
+    width: 15rem;
+}
